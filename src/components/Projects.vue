@@ -25,21 +25,21 @@
             id: 1,
             title: 'RightJob Solution Payroll System',
             description: 'A responsive online Payroll built with Vue.js and Tailwind CSS.',
-            image: './src/assets/rjs.jpg',
+            src: './assets/rjs.jpg',
             link: 'https://payroll-system-frontend-pied.vercel.app/'
           },
           {
             id: 2,
             title: 'Online Quiz System',
             description: 'A user-friendly online quiz system for creating, taking, and managing quizzes with ease.',
-            image: './src/assets/onlinequizsystem.jpg',
+            src: './assets/onlinequizsystem.jpg',
             link: 'https://online-quiz-front-b1mqoj5uh-sdr20s-projects.vercel.app/login'
           },
           {
             id: 3,
             title: 'Vowsyle E-commerce Mobile App', 
             description: 'A stylish e-commerce platform offering exquisite wedding gowns and chic womens wear for every special occasion..',
-            image: './src/assets/app.jpg',
+            src: './assets/app.jpg',
             link: 'https://github.com/sdr20/vowstyle-E-commerce-App'
           }
         ]
